@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanudupa&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanudupa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushanudupa" alt="bhushanudupa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-repo.vercel.app//?username=bhushanudupa" alt="bhushanudupa" /></a> </p>
 
 - 🌱 I’m currently learning **Python, MERN Stack, Devops**
 
